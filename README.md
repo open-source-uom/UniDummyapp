@@ -1,4 +1,4 @@
-# UniDummyapp (Workshop Notifier — Qt6 C++ App)
+# UniDummyapp (Workshop Notifier - Qt6 C++ App)
 
 A simple Qt6 C++ desktop app for a workshop demo.
 
