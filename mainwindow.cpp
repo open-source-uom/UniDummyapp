@@ -70,7 +70,7 @@ void MainWindow::setupTrayIcon()
 
 void MainWindow::onNotifyClicked()
 {
-
+    notificationCount++;
     QString title = "UniDummyapp";
     QString message = QString("Notification #%1 — %2")
                       .arg(notificationCount)
