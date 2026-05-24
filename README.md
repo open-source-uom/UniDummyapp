@@ -11,7 +11,7 @@ A simple Qt6 C++ desktop app for a workshop demo.
 ## Prerequisites
 
 - Qt 6.x (with Widgets module)
-- CMake ≥ 3.16  **or**  qmake (comes with Qt)
+- CMake ≥ 3.16
 - A C++17 compiler (GCC, Clang, MSVC)
 
 Install Qt on Ubuntu/Debian:
